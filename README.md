@@ -1,7 +1,7 @@
 # ✨ QR Code Generator ✨
 
 A simple and colorful **QR Code Generator** web app that instantly converts your text, link, or information into a scannable QR code.  
-Built with **HTML, CSS, and JavaScript** 
+Built with **HTML, CSS, and JavaScript** using the [QRCode.js](https://cdnjs.com/libraries/qrcodejs) library.
 ---
 
 ## 🚀 Features
