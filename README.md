@@ -35,4 +35,5 @@ Built with **HTML, CSS, and JavaScript** using the [QRCode.js](https://github.co
 ## 🎯 How to Use
 1. Clone the repository:
    ```bash
-https://github.com/hemanathansuriya/QR-Code.git
+    https://github.com/hemanathansuriya/QR-Code.git
+
